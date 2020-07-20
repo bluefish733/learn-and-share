@@ -1,5 +1,0 @@
-{
-  "scripts": {
-    "commitmsg": "commitlint -E GIT_PARAMS"
-  }
-}
