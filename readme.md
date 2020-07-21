@@ -9,3 +9,5 @@
  - A: 仍然是test
 
 --------------------------------------------------------
+
+note: merge learn-git branch at quarter past seven 
