@@ -16,3 +16,7 @@ note: merge learn-git branch at quarter past seven
 
  - Q: fast forward?
  - A: and --no-ff
+
+--------------------------------------------------------
+
+ - Q: 多人开发同一个分支时，怎么用rebase呢？
