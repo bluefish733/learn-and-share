@@ -5,6 +5,7 @@ def hello
   puts 'test rebase'
   puts 'zjl - 1'
   puts 'zjll - 2'
+  puts 'zjl -3'
 end
 
 hello()
