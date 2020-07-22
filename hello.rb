@@ -6,6 +6,7 @@ def hello
   puts 'zjl - 1'
   puts 'zjll - 2'
   puts 'zjl -3'
+  puts 'zjl -4'
 end
 
 hello()
