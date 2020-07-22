@@ -15,4 +15,4 @@ note: merge learn-git branch at quarter past seven
 --------------------------------------------------------
 
  - Q: fast forward?
-
+ - A: and --no-ff
